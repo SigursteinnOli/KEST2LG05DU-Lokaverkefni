@@ -13,3 +13,7 @@ Now we were half-way done and called it a day
 
 10/5/20
 We woke up early and used Microsoft Teams to talk and share the project and continued where we left off.
+We started by installing samba and created a empty share directory for IT and management to have control of.
+After getting the permissions to work it was time to give them remote access via ssh.
+we managed to figure that out and started working on the apache server.
+It started well and the apache server was running but then we ran into problems that we couldn't figure out.
